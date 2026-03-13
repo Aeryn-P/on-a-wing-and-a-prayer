@@ -3,6 +3,7 @@ This is a group project with team members Alessandra Ozuna, Jacob Henderson, Del
 This code calculates and displays the deflection along a wing of selected materials at variable velocities and altitudes.
 
 ## Project Results
+This is what deflection looks like on a wing of a plane (from the front of the plane). The blue represents what the wing looks like with deflection and the green represents the wing without deflection.
 ![Plane Wing with and without Deflection](images/Plane_Wing.png)
 ![Deflection Graph](images/Graph_of_Deflection_Path.png)
 
