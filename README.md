@@ -5,6 +5,8 @@ This code calculates and displays the deflection along a wing of selected materi
 ## Project Results
 This is what deflection looks like on a wing of a plane (from the front of the plane). The blue represents what the wing looks like with deflection and the green represents the wing without deflection.
 ![Plane Wing with and without Deflection](images/Plane_Wing.png)
+
+This is the graph that is generated from our code. It represents the simplified version of the path of deflection with the X-axis representing the length of the wing and the Y-axis being the deflection of the wing.
 ![Deflection Graph](images/Graph_of_Deflection_Path.png)
 
 ## Overview
